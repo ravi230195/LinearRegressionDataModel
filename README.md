@@ -1,4 +1,4 @@
-# LinearRegressionDataModel
+#RegressionDataModel
 LenearRegression Data Model for CO2 emission in Cars
 
 Data Source 
@@ -9,4 +9,8 @@ Model statistics
   1.SimpleLinearRegressionDataModel
 
   2.MulitpleLinearRegressionDataModel
+  
+  3.PolynomialRegressionDataModel
+  
+  4.NonLinearRegressionDataModel
 
